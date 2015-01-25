@@ -19,7 +19,7 @@ More information for this dataset can be found at [The UCI Machine Learning Repo
 
 - README.md: is this file which describes the overview of the course project. 
 
-- CodeBook.md: outlines how necessary data such as the measurement data, the features, the activities and the subject identifiers were gethered, extracted and recombined through the five steps. It illustrates how the original dataset was transformed into the tidy dataset for future analysis. 
+- CodeBook.md: outlines how necessary data such as the measurement data, the features, the activities and the subject identifiers were gathered, extracted and recombined through the five steps. It illustrates how the original dataset was transformed into the tidy dataset for future analysis. 
 
 - run_analysis.R: is the script to perform the transformations which closely follows the five steps.
 
