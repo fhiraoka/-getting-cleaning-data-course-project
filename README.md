@@ -17,13 +17,13 @@ More information for this dataset can be found at [The UCI Machine Learning Repo
 
 ### Files in this repository
 
--README.md: is this file which describes the overview of the course project. 
+- README.md: is this file which describes the overview of the course project. 
 
--CodeBook.md: explains how the source dataset is transformed into a tidy dataset through the five steps including how the features are extracted and how the subjects and activities are identified. 
+- CodeBook.md: explains how the source dataset is transformed into a tidy dataset through the five steps including how the features are extracted and how the subjects and activities are identified. 
 
--run_analysis.R: is the script to perform the transformations which closely follows the five steps.
+- run_analysis.R: is the script to perform the transformations which closely follows the five steps.
 
--tidy_mean.txt: is the output text file from running *run_analysis.R* that consists of the mean values of sixty-six features per subject and per activity.    
+- tidy_mean.txt: is the output text file from running *run_analysis.R* that consists of the mean values of sixty-six features per subject and per activity.    
 
 ### Instructions
     
